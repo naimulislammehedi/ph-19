@@ -14,3 +14,8 @@ function getMax(numbers) {
 
 const max = getMax(height); 
 console.log(max)
+
+
+// Home Work: find smallest
+
+
