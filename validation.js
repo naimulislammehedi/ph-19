@@ -43,6 +43,7 @@ console.log(price);
 function getSecond(numbers) {
     // console.log(typeof numbers); 
     // console.log(Array.isArray(numbers)); 
+    // console.log(numbers); 
 
     if (Array.isArray(numbers) === false) {
         return "Please provide an array"; 
